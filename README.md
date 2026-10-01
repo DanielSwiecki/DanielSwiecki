@@ -48,7 +48,7 @@ I designed and implemented the algorithm that recognizes the input (still image,
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSwiecki&show_icons=true&hide_border=true&theme=transparent)
 
 ### Contact
 
