@@ -54,4 +54,4 @@ I designed and implemented the algorithm that recognizes the input (still image,
 ### Contact
 
 
-- Email: [daniel.swiecki.2002.com](mailto:you@example.com)
+- Email: [daniel.swiecki.2002@gmail.com](mailto:you@example.com)
